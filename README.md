@@ -21,8 +21,7 @@
 <img src="https://avatars.githubusercontent.com/u/131857544?s=200&v=4" width="15"/> [Leets](https://leets.land/) 1st - 3rd Backend Part <sub>2023.03 ~ 2024.08</sub>  
 
 ### Contributions
-[`spring-boot`](https://github.com/spring-projects/spring-boot/pull/46289) - Optimize resource lookup in DevTools restart
-
+[`spring-boot`](https://github.com/spring-projects/spring-boot/pull/46289) - Optimize resource lookup in DevTools restart ([v4.0.0-M3](https://github.com/spring-projects/spring-boot/releases/tag/v4.0.0-M3))
 ### Projects
 <img src="https://github.com/user-attachments/assets/2a0b3f30-67d8-4975-bd38-4c8ec8310e38" width="15"/> [Reed](https://github.com/YAPP-Github/Reed-Server) <sub>2025.06 ~ Present</sub>  
 책을 덮기 전, 마음에 남은 문장을 담아두는 독서 기록 서비스  
