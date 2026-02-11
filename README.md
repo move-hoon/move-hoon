@@ -16,7 +16,7 @@
 <img src="https://github.com/user-attachments/assets/6c2936c6-3a6b-4306-9143-190dac4c72cd" width="15"/> [MGRV](https://mangrove.city/en/about-us) Backend Engineer Intern <sub>2025.09.01 ~ 2025.12.31</sub>  
 <img src="https://avatars.githubusercontent.com/u/40321838?v=4" width="15"/> [AUSG](https://ausg.me/) 9th Member <sub>2025.07 ~ Present</sub>  
 <img src="https://avatars.githubusercontent.com/u/101037471?s=200&v=4" width="15"/> [YAPP](https://www.yapp.co.kr/) 26th Backend Developer <sub>2025.05 ~ 2025.08</sub>  
-<img src="https://avatars.githubusercontent.com/u/113594441?s=200&v=4" width="15"/> [SOPT Makers](https://makers.sopt.org/) 5th - 7th Backend Engineer <sub>2024.08 ~ Present</sub>  
+<img src="https://avatars.githubusercontent.com/u/113594441?s=200&v=4" width="15"/> [SOPT Makers](https://makers.sopt.org/) 5th - 7th Backend Engineer <sub>2024.08 ~ 2026.02</sub>  
 <img src="https://avatars.githubusercontent.com/u/164750478?s=200&v=4" width="15"/> [SOPT](https://www.sopt.org/) 34th Server Part <sub>2024.03 ~ 2024.07</sub>  
 <img src="https://avatars.githubusercontent.com/u/131857544?s=200&v=4" width="15"/> [Leets](https://leets.land/) 1st - 3rd Backend Part <sub>2023.03 ~ 2024.08</sub>  
 
