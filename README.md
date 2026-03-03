@@ -43,8 +43,9 @@ Claude Code Pro Plan 환경에서 토큰 효율을 극대화하기 위한 실행
 <img src="https://images.icon-icons.com/2148/PNG/512/sentry_icon_132005.png" width="15"/> [Sentry Notifier](https://github.com/sopt-makers/sentry-notifier) <sub>2025.04 ~ Present</sub>  
 월 $26 Sentry 유료 알림을 AWS Lambda로 대체한 무료 실시간 에러 알림 시스템  
 
-
-
+### Presentations
+[인턴십 실무 노하우 및 커뮤니케이션 전략 특강 - 2026년 ICT 인턴십 상반기 국내과정 OT](https://drive.google.com/file/d/1IDW01Oe54j7Y4mAZVMGAK1Oc9QNz1Xih/view?usp=sharing) </br> 
+[Spring Transaction 톺아보기 - SOPT 37기 서버 파트 명예 OB 세미나](https://drive.google.com/file/d/1O_fJoPeSxn3miDsDYrxTpggQFoUUY4FG/view?usp=sharing)
 
 ### Awards
 🏆 YAPP 26th Demoday - 최우수상 <sub>2025.8</sub> </br>
