@@ -4,9 +4,6 @@
 
 > 필요한 도구가 없으면 직접 만들고, 제약이 많은 문제일수록 더 정교한 해법을 설계하는 엔지니어입니다.
 
-- 처음에는 식품공학을 전공했지만, 머릿속 아이디어를 직접 설계하고 실제로 동작하는 결과물로 구현할 수 있는 소프트웨어의 매력에 끌려 컴퓨터공학으로 전과했습니다.
-- 혼자 만든 결과물에 만족하지 않고, 그 구조가 팀 전체의 속도를 바꿀 때 가장 큰 보람을 느낍니다.
-
 ### Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
