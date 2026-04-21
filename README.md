@@ -11,26 +11,28 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 </p>
 
-### Activities
+### Experience
 <img src="https://github.com/user-attachments/assets/6c2936c6-3a6b-4306-9143-190dac4c72cd" width="15"/> [MGRV](https://mangrove.city/en/about-us) Backend Engineer Intern <sub>2025.09.01 ~ 2025.12.31</sub>  
+
+### Activities
 <img src="https://avatars.githubusercontent.com/u/40321838?v=4" width="15"/> [AUSG](https://ausg.me/) 9th Member <sub>2025.07 ~ Present</sub>  
-<img src="https://avatars.githubusercontent.com/u/101037471?s=200&v=4" width="15"/> [YAPP](https://www.yapp.co.kr/) 26th Backend Developer <sub>2025.05 ~ 2025.08</sub>  
 <img src="https://avatars.githubusercontent.com/u/113594441?s=200&v=4" width="15"/> [SOPT Makers](https://makers.sopt.org/) 5th - 7th Backend Engineer <sub>2024.08 ~ 2026.02</sub>  
-<img src="https://avatars.githubusercontent.com/u/164750478?s=200&v=4" width="15"/> [SOPT](https://www.sopt.org/) 34th Server Part <sub>2024.03 ~ 2024.07</sub>  
+<img src="https://avatars.githubusercontent.com/u/101037471?s=200&v=4" width="15"/> [YAPP](https://www.yapp.co.kr/) 26th Backend Developer <sub>2025.05 ~ 2025.08</sub>  
 <img src="https://avatars.githubusercontent.com/u/131857544?s=200&v=4" width="15"/> [Leets](https://leets.land/) 1st - 3rd Backend Part <sub>2023.03 ~ 2024.08</sub>  
+<img src="https://avatars.githubusercontent.com/u/164750478?s=200&v=4" width="15"/> [SOPT](https://www.sopt.org/) 34th Server Part <sub>2024.03 ~ 2024.07</sub>  
 
 ### Contributions
 [`spring-boot`](https://github.com/spring-projects/spring-boot/pull/46289) - Optimize resource lookup in DevTools restart ([v4.0.0-M3](https://github.com/spring-projects/spring-boot/releases/tag/v4.0.0-M3))
 
 ### Team Projects
-<img src="https://github.com/user-attachments/assets/2a0b3f30-67d8-4975-bd38-4c8ec8310e38" width="15"/> [Reed](https://github.com/YAPP-Github/Reed-Server) <sub>2025.06 ~ Present</sub>  
-책을 덮기 전, 마음에 남은 문장을 담아두는 독서 기록 서비스  
-
-<img src="https://avatars.githubusercontent.com/u/113594441?s=200&v=4" width="15"/> [SOPT Makers Crew](https://github.com/sopt-makers/sopt-crew-backend) <sub>2024.08 ~ Present</sub>  
-3,000명의 SOPT 구성원들을 연결하는 모임 서비스  
-
 <img src="https://github.com/user-attachments/assets/3596a16d-8d39-48ee-b3f0-d55c710faa0d" width="15"/> [BEAT](https://github.com/TEAM-BEAT/BEAT-SERVER) <sub>2024.06 ~ Present</sub>  
 소규모 공연을 쉽게 등록하고 관리할 수 있는 티켓팅 플랫폼  
+
+<img src="https://github.com/user-attachments/assets/2a0b3f30-67d8-4975-bd38-4c8ec8310e38" width="15"/> [Reed](https://github.com/YAPP-Github/Reed-Server) <sub>2025.06 ~ 2026.03</sub>  
+책을 덮기 전, 마음에 남은 문장을 담아두는 독서 기록 서비스  
+
+<img src="https://avatars.githubusercontent.com/u/113594441?s=200&v=4" width="15"/> [SOPT Makers Crew](https://github.com/sopt-makers/sopt-crew-backend) <sub>2024.08 ~ 2026.02</sub>  
+3,000명의 SOPT 구성원들을 연결하는 모임 서비스  
 
 <img src="https://github.com/user-attachments/assets/06a568fe-4bcd-47ed-80fe-54c09537e351" width="15"/> [MoodMate](https://github.com/Leets-Official/MoodMate-BE) <sub>2023.10 ~ 2024.06</sub>  
 가천대 학생을 위한 데이트 무드·나이·전공 기반 맞춤형 1:1 매칭 서비스
