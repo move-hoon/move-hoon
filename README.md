@@ -22,7 +22,7 @@
 <img src="https://avatars.githubusercontent.com/u/164750478?s=200&v=4" width="15"/> [SOPT](https://www.sopt.org/) 34th Server Part <sub>2024.03 ~ 2024.07</sub>  
 
 ### Contributions
-[`spring-boot`](https://github.com/spring-projects/spring-boot/pull/46289) - Optimize resource lookup in DevTools restart ([v4.0.0-M3](https://github.com/spring-projects/spring-boot/releases/tag/v4.0.0-M3))
+[`spring-boot`](https://github.com/spring-projects/spring-boot/pull/46289) - Optimize resource lookup in DevTools restart [v4.0.0]
 
 ### Team Projects
 <img src="https://github.com/user-attachments/assets/3596a16d-8d39-48ee-b3f0-d55c710faa0d" width="15"/> [BEAT](https://github.com/TEAM-BEAT/BEAT-SERVER) <sub>2024.06 ~ Present</sub>  
@@ -38,8 +38,8 @@
 가천대 학생을 위한 데이트 무드·나이·전공 기반 맞춤형 1:1 매칭 서비스
 
 ### Personal Projects
-<img src="https://github.com/user-attachments/assets/78299364-7784-4776-8f10-6f459ebd14e5" width="15"/> [Claude Pro MinMax (CPMM)](https://github.com/move-hoon/claude-pro-minmax) <sub>2026.02 ~ Present</sub>  
-Claude Code Pro Plan 환경에서 토큰 효율을 극대화하기 위한 실행 전략 설계 프로젝트
+<img src="https://github.com/user-attachments/assets/c4113ea9-06a5-43f8-bb5c-edc45ea82364" width="15"/> [Sober](https://github.com/move-hoon/sober) <sub>2026.02 ~ Present</sub>  
+Claude Code와 Codex CLI를 차분한 검증 루프 안에 묶어두는 AI 코딩 하네스
 
 <img src="https://images.icon-icons.com/2148/PNG/512/sentry_icon_132005.png" width="15"/> [Sentry Notifier](https://github.com/sopt-makers/sentry-notifier) <sub>2025.04 ~ Present</sub>  
 월 $26 Sentry 유료 알림을 AWS Lambda로 대체한 무료 실시간 에러 알림 시스템  
@@ -52,7 +52,6 @@ Claude Code Pro Plan 환경에서 토큰 효율을 극대화하기 위한 실행
 🏆 YAPP 26th Demoday - 최우수상 <sub>2025.8</sub> </br>
 🏆 SOPT 34th AppJam - 최우수상 <sub>2024.7</sub> </br>
 🏆 Tutoring C Language Mentor - 장려상 <sub>2024.1</sub>
-
 
 ### Stats
 <div style="display: flex; align-items: center; gap: 8px;">
