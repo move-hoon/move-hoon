@@ -12,7 +12,7 @@
 <img src="https://avatars.githubusercontent.com/u/164750478?s=200&v=4" width="15"/> [SOPT](https://www.sopt.org/) 34th Server Part <sub>2024.03 ~ 2024.07</sub>  
 
 ### Contributions
-[`spring-boot`](https://github.com/spring-projects/spring-boot/pull/46289) - Optimize resource lookup in DevTools restart v4.0.0
+[`spring-boot`](https://github.com/spring-projects/spring-boot/pull/46289) - Optimize resource lookup in DevTools restart v4.0.0 </br>
 [`apache/zeppelin`](https://github.com/apache/zeppelin/pull/5289) - Handle secondary NotebookRepo remove failures consistently
 
 ### Team Projects
