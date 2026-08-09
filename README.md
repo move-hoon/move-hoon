@@ -13,7 +13,7 @@
 
 ### Contributions
 [`spring-boot`](https://github.com/spring-projects/spring-boot/pull/46289) - Optimize resource lookup in DevTools restart v4.0.0 </br>
-[`apache/zeppelin`](https://github.com/apache/zeppelin/pull/5289) - Handle secondary NotebookRepo remove failures consistently
+[`apache/zeppelin`](https://github.com/apache/zeppelin/pull/5289) - Handle secondary NotebookRepo remove failures consistently </br>
 [`apache/zeppelin`](https://github.com/apache/zeppelin/pull/5405) - Extract shared Python ZeppelinContext helpers for PySpark and PyFlink </br>
 
 ### Team Projects
