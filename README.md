@@ -1,6 +1,7 @@
 <div align="left">
 
 ### Experience
+<img src="https://github.com/daangn.png" width="15"/> [Karrot](https://www.karrotmarket.com/) Software Engineer Intern <sub>2026.09.28 ~ Present</sub> </br>
 <img src="https://avatars.githubusercontent.com/u/4995702?s=200&v=4" width="15"/> [MGRV](https://mangrove.city/en/about-us) Backend Engineer Intern <sub>2025.09.01 ~ 2025.12.31</sub>  
 
 ### Activities
