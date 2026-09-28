@@ -1,7 +1,7 @@
 <div align="left">
 
 ### Experience
-<img src="https://github.com/daangn.png" width="15"/> [Karrot](https://www.karrotmarket.com/) Software Engineer Intern <sub>2026.09.28 ~ Present</sub> </br>
+<img src="https://github.com/daangn.png" width="15"/> [Karrot](https://www.karrotmarket.com/) Software Engineer Intern <sub>2026.09.28 ~ Present</sub> <br/>
 <img src="https://avatars.githubusercontent.com/u/4995702?s=200&v=4" width="15"/> [MGRV](https://mangrove.city/en/about-us) Backend Engineer Intern <sub>2025.09.01 ~ 2025.12.31</sub>  
 
 ### Activities
@@ -13,9 +13,10 @@
 <img src="https://avatars.githubusercontent.com/u/164750478?s=200&v=4" width="15"/> [SOPT](https://www.sopt.org/) 34th Server Part <sub>2024.03 ~ 2024.07</sub>  
 
 ### Contributions
-[`spring-boot`](https://github.com/spring-projects/spring-boot/pull/46289) - Optimize resource lookup in DevTools restart v4.0.0 </br>
-[`apache/zeppelin`](https://github.com/apache/zeppelin/pull/5289) - Handle secondary NotebookRepo remove failures consistently </br>
-[`apache/zeppelin`](https://github.com/apache/zeppelin/pull/5405) - Extract shared Python ZeppelinContext helpers for PySpark and PyFlink </br>
+[`spring-boot#51841`](https://github.com/spring-projects/spring-boot/pull/51841) - 77% faster DevTools remote restarts, 130k → 1.3k file lookups (100 deleted entries) <br/>
+[`spring-boot#46289t`](https://github.com/spring-projects/spring-boot/pull/46289) - 17.6% faster DevTools remote restarts (200 modules) <br/>
+[`apache/zeppelin#5289`](https://github.com/apache/zeppelin/pull/5289) - Handle secondary NotebookRepo remove failures consistently <br/>
+[`apache/zeppelin#5405`](https://github.com/apache/zeppelin/pull/5405) - Extract shared Python ZeppelinContext helpers for PySpark and PyFlink <br/>
 
 ### Presentations
 [AI한테 장애 진단 맡겨보기 - AUSG Public BIGCHAT](https://drive.google.com/file/d/1YA7eU1HqGKAdbdHeH5l611pc1bNguDlF/view?usp=sharing) </br> 
