@@ -14,7 +14,7 @@
 
 ### Contributions
 [`spring-boot#51841`](https://github.com/spring-projects/spring-boot/pull/51841) - 77% faster DevTools remote restarts, 130k → 1.3k file lookups (100 deleted entries) <br/>
-[`spring-boot#46289t`](https://github.com/spring-projects/spring-boot/pull/46289) - 17.6% faster DevTools remote restarts (200 modules) <br/>
+[`spring-boot#46289`](https://github.com/spring-projects/spring-boot/pull/46289) - 17.6% faster DevTools remote restarts (200 modules) <br/>
 [`apache/zeppelin#5289`](https://github.com/apache/zeppelin/pull/5289) - Handle secondary NotebookRepo remove failures consistently <br/>
 [`apache/zeppelin#5405`](https://github.com/apache/zeppelin/pull/5405) - Extract shared Python ZeppelinContext helpers for PySpark and PyFlink <br/>
 
