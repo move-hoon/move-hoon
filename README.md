@@ -22,11 +22,6 @@
 [인턴십 실무 노하우 및 커뮤니케이션 전략 특강 - 2026년 ICT 인턴십 상반기 국내과정 OT](https://drive.google.com/file/d/1IDW01Oe54j7Y4mAZVMGAK1Oc9QNz1Xih/view?usp=sharing) </br> 
 [Spring Transaction 톺아보기 - SOPT 37기 서버 파트 명예 OB 세미나](https://drive.google.com/file/d/1O_fJoPeSxn3miDsDYrxTpggQFoUUY4FG/view?usp=sharing)
 
-### Awards
-YAPP 26th Demoday - 최우수상 <sub>2025.8</sub> </br>
-SOPT 34th AppJam - 최우수상 <sub>2024.7</sub> </br>
-Tutoring C Language Mentor - 장려상 <sub>2024.1</sub>
-
 ### Contacts
 <p align="left">
   <a href="https://01codingjourney.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"></a>&nbsp
